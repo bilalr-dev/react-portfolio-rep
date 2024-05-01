@@ -1,2 +1,2 @@
-# react-portfolio-rep
-My Portfolio using react js
+# react-portfolio
+3D Portfolio using ReactJS
